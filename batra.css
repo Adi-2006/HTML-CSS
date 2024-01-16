@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main_container {
+    background-color: #beebe2;
+}
+
+header {
+    padding: 1px;
+    margin: 5px;
+
+}
+
+.upper_heading {
+    text-align: center;
+    margin: 5px;
+    border: 2px solid rgb(144, 188, 40);
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.heading {
+    text-align: center;
+    margin: 5px;
+}
+
+#About {
+    display: flex
+}
+
+#about_article {
+    ;
+    margin-top: 1px;
+}
+
+#photo {
+    display: inline-block;
+}
+
+#achievements {
+    font: size 30px;
+    font-weight: 900;
+    text-align: center;
+    margin: 5px;
+}
+
+#awards {}
